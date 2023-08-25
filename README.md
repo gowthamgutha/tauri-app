@@ -6,14 +6,14 @@ This template should help get you started developing with Tauri and Svelte in Vi
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
 
-# Directory structure
+## Directory structure
 
 1. `src-tauri` -- (Backend) This contains the Rust programs that are used for backend functionality.
 
 2. `src` -- (Frontend) This contains the svelte files that is used for the frontend.
 
 
-# A brief on the Svelte, Tauri and Rust
+## A brief on the Svelte, Tauri and Rust
 
 In svelte, a component is a conglomeration of HTML, CSS and JavaScript where HTMl provides the structure of the component, CSS provides its styling and JavaScript defines its functionality.
 
